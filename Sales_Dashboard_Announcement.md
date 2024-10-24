@@ -11,6 +11,6 @@ I recently completed a Sales Dashboard that brings a fresh perspective on key pe
 - 🌍 **Top 5 Countries in Sales** – A global perspective on our highest-performing markets.
 
 This dashboard will make data-driven decisions faster and more efficient. Looking forward to optimizing further and driving more business success!
-For Live Dashboard: Live Dashboard
+For Live Dashboard: [Live Dashboard](https://app.powerbi.com/groups/me/reports/e149cf84-ef9d-4d76-96af-8dcc3b649050?experience=power-bi)
 
-Screenshot:
+Screenshot:![Sales](https://github.com/user-attachments/assets/58ea288d-e01f-46c5-be66-5105103dde40)
