@@ -11,12 +11,6 @@ I recently completed a Sales Dashboard that brings a fresh perspective on key pe
 - 🌍 **Top 5 Countries in Sales** – A global perspective on our highest-performing markets.
 
 This dashboard will make data-driven decisions faster and more efficient. Looking forward to optimizing further and driving more business success!
+For Live Dashboard: Live Dashboard
 
-#hashtags
-- #DataAnalytics 
-- #PowerBI 
-- #SalesDashboard 
-- #BusinessIntelligence 
-- #DataVisualization 
-- #BI 
-- #DataDriven
+Screenshot:
